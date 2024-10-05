@@ -32,7 +32,7 @@ This project implements the **Rate Monotonic Scheduling (RMS)** algorithm using 
 
 For those using Proteus for simulation, refer to the image below to see the circuit connection used in the project. The Proteus schematic demonstrates the connection of LEDs, Atmega32, and other components.
 
-![Proteus Connection Diagram](Rate Monotonic Scheduler/proteus/RateMonotonic.png)
+![Proteus Connection Diagram](Rate%20Monotonic%20Scheduler/proteus/RateMonotonic.png)
 
 ## Future Enhancements
 - Implement additional scheduling algorithms (e.g., Earliest Deadline First).
